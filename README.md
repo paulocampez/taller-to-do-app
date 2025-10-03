@@ -33,24 +33,24 @@ updatedAt (timestamp)
 
 
 Requirements:
-Implement the API using Node.js and TypeScript.
-Use an in-memory data store (e.g., an array) to keep tasks (persistence is not required).
-Validate input data and handle errors gracefully.
-Write at least unit tests for the core business logic (e.g., task creation and status update).
-Use proper TypeScript types/interfaces.
-The API should follow RESTful conventions and return appropriate HTTP status codes.
-Include brief documentation (e.g., README or comments) on how to run and test the service.
+- Implement the API using Node.js and TypeScript.
+- Use an in-memory data store (e.g., an array) to keep tasks (persistence is not required).
+- Validate input data and handle errors gracefully.
+- Write at least unit tests for the core business logic (e.g., task creation and status update).
+- Use proper TypeScript types/interfaces.
+- The API should follow RESTful conventions and return appropriate HTTP status codes.
+- Include brief documentation (e.g., README or comments) on how to run and test the service.
 
 
 Bonus (Optional if time permits):
-Implement pagination for the "Retrieve all tasks" endpoint.
-Add filtering by status on the "Retrieve all tasks" endpoint.
-Technologies Relevant to the Challenge
-Node.js (runtime)
-TypeScript (language)
-Express.js or any minimal HTTP server framework (optional, but recommended)
-Jest or any testing framework for unit tests
-UUID generation library (e.g., uuid npm package)
+- Implement pagination for the "Retrieve all tasks" endpoint.
+- Add filtering by status on the "Retrieve all tasks" endpoint.
+- Technologies Relevant to the Challenge
+- Node.js (runtime)
+- TypeScript (language)
+- Express.js or any minimal HTTP server framework (optional, but recommended)
+- Jest or any testing framework for unit tests
+- UUID generation library (e.g., uuid npm package)
 
 
 External Resources
