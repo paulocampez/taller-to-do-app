@@ -1,0 +1,21 @@
+{
+  "name": "taller-to-do-app",
+  "version": "1.0.0",
+  "description": "Code Challenge for Senior Backend Engineer (Node.js / TypeScript / Java)\r Evaluation of Job Description\r This is a valid IT job description for a Senior Backend Engineer role involving software development with Node.js, JavaScript, TypeScript, and Java. The role requires strong backend development skills, understanding of SDLC, testing, CI/CD, and performance optimization. A coding challenge is warranted to assess the candidate’s ability to design and implement scalable backend services, write clean and maintainable code, and demonstrate testing skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocampez/taller-to-do-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paulocampez/taller-to-do-app/issues"
+  },
+  "homepage": "https://github.com/paulocampez/taller-to-do-app#readme"
+}
